@@ -26,11 +26,10 @@
 ## Tecnologias que uso 🖥️🛠️:
 
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bootstrap,angular,react,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bootstrap,angular,react,git,github,python&theme=dark" />
  </div>
 <hr>
 
-<hr>
 ## Vídeos do meu canal 🎞️📽️:
 
 -[Resolução de Sistemas Lineares em PHP](https://youtu.be/8uFEGRcAk_k)
