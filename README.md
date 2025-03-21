@@ -14,6 +14,14 @@
   
 </div>
 
+![lineBar](https://github.com/user-attachments/assets/7c6895d7-edcc-4c10-85b7-4dae6728cc5a)
+
+<p><strong>Sobre mim</strong></p>
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Me chamo Vanderson Noleto e sou estudante de Ciencia da Computação <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo atual é me tornar um desenvolvedor Front-End<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Atualmente estou estudando Angular e React.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Sempre tento ser uma pessoa educada e respeitosa, e adoro conhecer novas pessoas<br />
 
 ## Tecnologias que uso 🖥️🛠️:
 
@@ -21,12 +29,8 @@
   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bootstrap,angular,react,git,github&theme=dark" />
  </div>
 <hr>
-<p><strong>Sobre mim</strong></p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Me chamo Vanderson Noleto e sou estudante de Ciencia da Computação <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo atual é me tornar um desenvolvedor Front-End<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Atualmente estou estudando Angular e React.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Sempre tento ser uma pessoa educada e respeitosa, e adoro conhecer novas pessoas<br />
+![lineBar](https://github.com/user-attachments/assets/7c6895d7-edcc-4c10-85b7-4dae6728cc5a)
 ## Vídeos do meu canal 🎞️📽️:
 
 -[Resolução de Sistemas Lineares em PHP](https://youtu.be/8uFEGRcAk_k)
