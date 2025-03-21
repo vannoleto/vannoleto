@@ -1,4 +1,4 @@
-### Olá, Eu Sou o Vanderson!🤖🖖
+### Front-End Developer | React & Angular
 
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vandersonnoleto)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/vannoleto/)
@@ -6,29 +6,27 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderson-noleto/)
 
 
-![vannoleto GitHub stats](https://github-readme-stats.vercel.app/api?username=vannoleto&show_icons=true&theme=transparent)
- <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannoleto&layout=compact&langs_count=16&theme=transparent"/>
+ <div align="center">  
+
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vannoleto&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannoleto&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+</div>
 
 
 ## Tecnologias que uso 🖥️🛠️:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vanderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vanderson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vanderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vanderson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vanderson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vanderson-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Vanderson-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- 
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bootstrap,angular,react,git,github&theme=dark" />
+ </div>
 
+<p><strong>Sobre mim</strong></p>
 
-
-  </div>
-
-### 👨‍💻 Cientista da computação em formação, apaixonado por desenvolvimento web. Habilidades em PHP, Python, HTML e CSS. Sempre em busca de novos desafios e aprendizado constante. Vamos criar algo incrível juntos! 💡
-
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Me chamo Vanderson Noleto e sou estudante de Ciencia da Computação <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo atual é me tornar um desenvolvedor Front-End<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Atualmente estou estudando Angular e React.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Sempre tento ser uma pessoa educada e respeitosa, e adoro conhecer novas pessoas<br />
 ## Vídeos do meu canal 🎞️📽️:
 
 -[Resolução de Sistemas Lineares em PHP](https://youtu.be/8uFEGRcAk_k)
