@@ -14,7 +14,7 @@
   
 </div>
 
-![lineBar](https://github.com/user-attachments/assets/7c6895d7-edcc-4c10-85b7-4dae6728cc5a)
+<hr>
 
 <p><strong>Sobre mim</strong></p>
 
@@ -30,7 +30,7 @@
  </div>
 <hr>
 
-![lineBar](https://github.com/user-attachments/assets/7c6895d7-edcc-4c10-85b7-4dae6728cc5a)
+<hr>
 ## Vídeos do meu canal 🎞️📽️:
 
 -[Resolução de Sistemas Lineares em PHP](https://youtu.be/8uFEGRcAk_k)
